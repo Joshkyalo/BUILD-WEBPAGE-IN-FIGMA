@@ -1,0 +1,251 @@
+.frame1-container {
+  min-height: 100vh;
+}
+.frame1-frame1 {
+  width: 100%;
+  height: 497px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame1-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 807px;
+  height: 497px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-rectangle2 {
+  top: -0.02667236328125px;
+  left: 0px;
+  width: 806px;
+  height: 497px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.frame1-text {
+  top: 37px;
+  left: 435px;
+  color: rgba(21, 18, 18, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 12px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-text01 {
+  color: rgba(21, 18, 18, 1);
+}
+.frame1-text02 {
+  color: rgba(0, 0, 0, 1);
+}
+.frame1-ellipse3 {
+  top: 59px;
+  left: 26.356300354003906px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+.frame1-text04 {
+  top: 219px;
+  left: 29px;
+  color: rgba(177, 154, 154, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-line1 {
+  top: 313px;
+  left: 29px;
+  width: 210px;
+  height: 0px;
+  position: absolute;
+}
+.frame1-image1 {
+  top: 296px;
+  left: 216px;
+  width: 21px;
+  height: 18px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-line2 {
+  top: 271px;
+  left: 26px;
+  width: 210px;
+  height: 0px;
+  position: absolute;
+}
+.frame1-image2 {
+  top: 252px;
+  left: 202px;
+  width: 42px;
+  height: 19px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-rectangle4 {
+  top: 345px;
+  left: 29px;
+  width: 210px;
+  height: 52px;
+  position: absolute;
+}
+.frame1-text06 {
+  top: 360px;
+  left: 98px;
+  color: rgba(0, 0, 0, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 12px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-text08 {
+  top: 191px;
+  left: 29px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 12px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-ellipse1 {
+  top: 83.02803802490234px;
+  left: 68.61431884765625px;
+  width: 18px;
+  height: 35px;
+  position: absolute;
+}
+.frame1-ellipse2 {
+  top: 89px;
+  left: 54px;
+  width: 45px;
+  height: 14px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-text13 {
+  top: 255px;
+  left: 31px;
+  color: rgba(45, 150, 100, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 300;
+  line-height: 12px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-text15 {
+  top: 294px;
+  left: 31px;
+  color: rgba(136, 131, 131, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 300;
+  line-height: 12px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-text17 {
+  top: 91px;
+  left: 150px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 12px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-text19 {
+  top: 314px;
+  left: 142px;
+  color: rgba(209, 196, 196, 1);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 12px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-image3 {
+  top: 168px;
+  left: 314px;
+  width: 477px;
+  height: 291px;
+  position: absolute;
+  border-color: transparent;
+}
